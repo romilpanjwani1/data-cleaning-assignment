@@ -50,17 +50,7 @@ This project is intended for data analysis and academic learning purposes. It is
 
 ## 👤 Author
 Romil Panjwani
-Graduate Certificate Student - Data Analytics for Business Decision Making
-Durham College, Oshawa, ON
 
-## Tests
-No automated tests are included in this script, but you can manually run the code and inspect the cleaned data output.
-
-## Deployment
-This project is not intended for deployment. It’s for educational purposes only.
-
-## Author
-Romil Panjwani
 
 ## License
 This project is licensed under the MIT License.
@@ -68,5 +58,4 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 Thanks to the course instructor and Durham College for guidance and resources.
 
-## Acknowledgments
-Thanks to the course instructor and Durham College for guidance and resources.
+
